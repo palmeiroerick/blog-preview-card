@@ -17,7 +17,11 @@ export const metadata: Metadata = {
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="en">
-      <body className={figtree.className}>{children}</body>
+      <body
+        className={`${figtree.className} flex h-screen w-screen items-center justify-center bg-yellow`}
+      >
+        {children}
+      </body>
     </html>
   );
 };
