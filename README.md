@@ -17,7 +17,7 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![Screen Shot 2024-01-13 at 16 44 26](https://github.com/palmeiroerick/blog-preview-card/assets/148393698/5546560d-92cd-489c-9f5f-915b64c35174)
 
 ## Links
 
